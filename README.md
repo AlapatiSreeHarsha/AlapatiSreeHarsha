@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alapati Sree Harsha</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=800&size=30&duration=3000&pause=1000&color=F94F6F&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Alapati+Sree+Harsha" alt="Typing SVG" />
+</p>
 <h3 align="center">CSE Undergrad | AI/ML Enthusiast | MERN Developer | Agentic AI Explorer</h3>
 
 <p align="center">
