@@ -147,10 +147,10 @@ pip install askharsha
 
 
 <p align="center">
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 </p>
 <p align="center">
-*"Building intelligent systems that solve real-world problems."*
+"Building intelligent systems that solve real-world problems."
 
 </p>
 
